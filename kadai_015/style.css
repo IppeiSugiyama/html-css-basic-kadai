@@ -14,12 +14,15 @@ body {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 2rem;
   font-family: "Josefin Sans", sans-serif;
   letter-spacing: 1.2em;
   text-shadow: 1px 1px 3px red;
   border-bottom: solid 3px rgb(115, 115, 114);
 }
-#basic {
+/* #basic {
   font-weight: bold;
-}
+} */
+ #basic > p {
+  font-weight: bold;
+ }
